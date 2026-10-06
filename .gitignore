@@ -1,0 +1,14 @@
+# Runtime logs
+*.log
+*.log.*
+health.log
+alerts.log
+
+# Backup / development versions
+*.v2
+*.v3
+*.v4
+
+# OS files
+.DS_Store
+Thumbs.db
