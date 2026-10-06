@@ -4,17 +4,6 @@
   A lightweight Bash tool that monitors Linux server health, with threshold alerts, logging, cron automation, and log rotation.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Automation-Cron-blue" alt="Cron">
-  <img src="https://img.shields.io/badge/Logs-logrotate-orange" alt="logrotate">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
-</p>
-
-<p align="center">
-  <img src="screenshots/health-check-healthy.png" alt="Health check output" width="800">
-</p>
 
 ---
 
